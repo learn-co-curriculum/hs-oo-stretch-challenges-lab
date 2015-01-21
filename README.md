@@ -5,8 +5,8 @@ level: 3
 type: stretch, lab
 ---
 
-# Basic Object Orientation and Ruby Stretch Challenges!
+# Get Stretching!
 
-<img src="http://1funny.com/wp-content/uploads/2011/10/cat-stretch.jpg">
+<img src="https://after-school-assets.s3.amazonaws.com/cat-stretch.jpg">
 
 Get all the tests passing. Go into `spec/000_dogs_spec.rb` and follow the instructions to get started. 
