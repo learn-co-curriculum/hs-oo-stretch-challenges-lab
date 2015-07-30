@@ -1,9 +1,4 @@
----
-tags: oo, kids
-language: ruby
-level: 3
-type: stretch, lab
----
+
 
 # Get Stretching!
 
